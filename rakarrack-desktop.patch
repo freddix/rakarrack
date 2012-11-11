@@ -1,0 +1,10 @@
+diff -aurN rakarrack-0.3.0.orig/data/rakarrack.desktop rakarrack-0.3.0/data/rakarrack.desktop
+--- rakarrack-0.3.0.orig/data/rakarrack.desktop	2009-01-04 15:05:51.000000000 +0100
++++ rakarrack-0.3.0/data/rakarrack.desktop	2009-01-04 18:50:43.000000000 +0100
+@@ -5,4 +5,5 @@
+ Name=Rakarrack
+ Comment=Guitar Effects Processor
+ Terminal=false
+-Icon=icono_rakarrack_128x128
++Icon=rakarrack
++
